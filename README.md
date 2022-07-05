@@ -27,14 +27,14 @@ Implemented the YOLO algorithm using pre-trained weights to perform object detec
 
 ## Snapshot
 
-U-Net:
+### U-Net:
 
 <img src="U_net_snapshot.png" alt="alt text" width="800"/> <br>
 
-Face recognition:
+### Face recognition:
 
 <img src="face_recog_snapshot.png" alt="alt text" width="800"/> <br>
 
-YOLO object detection:
+### YOLO object detection:
 
 <img src="yolo_snapshot.png" alt="alt text" width="800"/> <br>
