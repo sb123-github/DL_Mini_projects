@@ -1,14 +1,14 @@
 # Deep Learning Mini projects
 
-## Project 1:
+## Project 1: U-Net Image segmentation
 
 Implemented U-Net model for semantic image segmentation on the CARLA self-driving car dataset.Applied sparse categorical cross-entropy for pixelwise prediction
 
-## Project 2:
+## Project 2: Face recognition and Face verification
 
 Implemented One-shot learning based on ideas from FaceNet model.Applied the triplet loss function to learn a network's parameters in the context of face recognition. Mapped face images into 128-dimensional encodings using a pretrained model. Performed face verification and face recognition with these encodings
 
-## Project 3:
+## Project 3: Object Detection using YOLO
 
 Implemented the YOLO algorithm using pre-trained weights to perform object detection on images captured by car dashboard cameras
 
@@ -27,14 +27,14 @@ Implemented the YOLO algorithm using pre-trained weights to perform object detec
 
 ## Snapshot
 
-### U-Net:
+U-Net:
 
 <img src="U_net_snapshot.png" alt="alt text" width="800"/> <br>
 
-### Face recognition:
+Face recognition:
 
 <img src="face_recog_snapshot.png" alt="alt text" width="800"/> <br>
 
-### YOLO object detection:
+YOLO object detection:
 
 <img src="yolo_snapshot.png" alt="alt text" width="800"/> <br>
